@@ -148,6 +148,14 @@ img {
   font-weight: var(--font-semi-bold);
 }
 
+.nav__toggle,
+.nav__close {
+  display: flex;
+  font-size: 1.25rem;
+  color: var(--title-color);
+  cursor: pointer;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
