@@ -184,6 +184,12 @@ img {
   font-weight: var(--font-medium);
 }
 
+.nav__close {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+}
+
 /* Show menu */
 
 /* Add blur to header */
