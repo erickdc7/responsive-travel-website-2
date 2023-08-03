@@ -162,7 +162,7 @@ img {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: gray;
+    background-color: hsla(0, 0%, 0%, 0.3);
     width: 100%;
     padding-block: 4rem;
     backdrop-filter: blur(24px);
