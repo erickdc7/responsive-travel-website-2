@@ -257,6 +257,11 @@ img {
   justify-content: center;
 }
 
+.home__card {
+  position: relative;
+  overflow: hidden;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
