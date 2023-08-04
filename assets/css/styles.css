@@ -287,6 +287,10 @@ img {
   z-index: 1;
 }
 
+.home__card:hover .home__card-img {
+  transform: scale(1.2);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
