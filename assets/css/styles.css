@@ -262,6 +262,10 @@ img {
   overflow: hidden;
 }
 
+.home__card-img {
+  transition: transform 0.4s;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
