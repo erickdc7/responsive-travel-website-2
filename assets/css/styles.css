@@ -233,6 +233,10 @@ img {
   row-gap: 3rem;
 }
 
+.home__data {
+  text-align: center;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
