@@ -242,6 +242,11 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.home__title {
+  font-size: var(--biggest-font-size);
+  margin-bottom: 1rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
