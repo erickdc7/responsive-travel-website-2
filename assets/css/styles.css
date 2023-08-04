@@ -252,6 +252,11 @@ img {
   color: var(--title-color);
 }
 
+.home__cards {
+  grid-template-columns: 240px;
+  justify-content: center;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
