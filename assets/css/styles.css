@@ -305,6 +305,12 @@ img {
   -webkit-backdrop-filter: blur(24px); /* For safari */
 }
 
+.button i {
+  font-size: 1.25rem;
+  transition: transform 0.4s;
+  font-weight: initial;
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== POPULAR ===============*/
