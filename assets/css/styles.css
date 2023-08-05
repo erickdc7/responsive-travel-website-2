@@ -346,6 +346,11 @@ img {
   overflow: hidden;
 }
 
+.about__img {
+  width: 300px;
+  transition: transform 0.4s;
+}
+
 /*=============== POPULAR ===============*/
 
 /*=============== EXPLORE ===============*/
