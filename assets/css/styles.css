@@ -364,6 +364,10 @@ img {
   );
 }
 
+.about__image:hover .about__img {
+  transform: scale(1.2);
+}
+
 /*=============== POPULAR ===============*/
 
 /*=============== EXPLORE ===============*/
