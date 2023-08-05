@@ -340,6 +340,12 @@ img {
   margin-bottom: 2rem;
 }
 
+.about__image {
+  position: relative;
+  justify-self: center;
+  overflow: hidden;
+}
+
 /*=============== POPULAR ===============*/
 
 /*=============== EXPLORE ===============*/
