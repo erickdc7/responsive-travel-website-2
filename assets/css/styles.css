@@ -311,7 +311,7 @@ img {
   font-weight: initial;
 }
 
-.button:hover {
+.button:hover i {
   transform: translateX(0.25rem);
 }
 
