@@ -311,6 +311,10 @@ img {
   font-weight: initial;
 }
 
+.button:hover {
+  transform: translateX(0.25rem);
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== POPULAR ===============*/
