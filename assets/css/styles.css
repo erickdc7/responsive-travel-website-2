@@ -376,6 +376,12 @@ img {
   row-gap: 2.5rem;
 }
 
+.popular__image {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
 /*=============== EXPLORE ===============*/
 
 /*=============== JOIN ===============*/
