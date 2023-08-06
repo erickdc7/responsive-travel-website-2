@@ -382,6 +382,10 @@ img {
   margin-bottom: 1rem;
 }
 
+.popular__img {
+  transition: transform 0.4s;
+}
+
 /*=============== EXPLORE ===============*/
 
 /*=============== JOIN ===============*/
