@@ -369,6 +369,12 @@ img {
 }
 
 /*=============== POPULAR ===============*/
+.popular__container {
+  padding-top: 1.5rem;
+  grid-template-columns: 240px;
+  justify-content: center;
+  row-gap: 2.5rem;
+}
 
 /*=============== EXPLORE ===============*/
 
