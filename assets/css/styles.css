@@ -417,6 +417,10 @@ img {
   font-size: 1rem;
 }
 
+.popular__image:hover .popular__img {
+  transform: scale(1.2);
+}
+
 /*=============== EXPLORE ===============*/
 
 /*=============== JOIN ===============*/
