@@ -431,6 +431,13 @@ img {
   overflow: hidden;
 }
 
+.explore__img {
+  width: 100%;
+  height: 333px;
+  object-fit: cover;
+  object-position: center;
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
