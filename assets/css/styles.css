@@ -404,6 +404,13 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.popular__location {
+  display: inline-flex;
+  align-items: center;
+  column-gap: 0.25rem;
+  font-size: var(--small-font-size);
+}
+
 /*=============== EXPLORE ===============*/
 
 /*=============== JOIN ===============*/
