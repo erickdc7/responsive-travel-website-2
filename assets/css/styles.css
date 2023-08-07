@@ -409,6 +409,8 @@ img {
   align-items: center;
   column-gap: 0.25rem;
   font-size: var(--small-font-size);
+  font-family: var(--second-font);
+  font-weight: 500;
 }
 
 /*=============== EXPLORE ===============*/
