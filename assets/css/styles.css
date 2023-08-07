@@ -399,6 +399,11 @@ img {
   );
 }
 
+.popular__title {
+  font-size: var(--h3-font-size);
+  margin-bottom: 0.5rem;
+}
+
 /*=============== EXPLORE ===============*/
 
 /*=============== JOIN ===============*/
