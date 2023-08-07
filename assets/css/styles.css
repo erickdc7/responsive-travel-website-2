@@ -413,6 +413,10 @@ img {
   font-weight: 500;
 }
 
+.popular__location i {
+  font-size: 1rem;
+}
+
 /*=============== EXPLORE ===============*/
 
 /*=============== JOIN ===============*/
