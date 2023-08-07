@@ -426,6 +426,11 @@ img {
   position: relative;
 }
 
+.explore__image {
+  position: absolute;
+  overflow: hidden;
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
