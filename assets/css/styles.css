@@ -453,6 +453,13 @@ img {
   );
 }
 
+.explore__content {
+  position: relative;
+  padding-top: 16rem;
+  text-align: center;
+  row-gap: 2.5rem;
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
