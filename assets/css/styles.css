@@ -467,6 +467,11 @@ img {
   column-gap: 0.5rem;
 }
 
+.explore__perfil {
+  width: 30px;
+  border-radius: 50%;
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
