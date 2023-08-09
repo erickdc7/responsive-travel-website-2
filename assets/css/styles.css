@@ -505,6 +505,12 @@ img {
   cursor: pointer;
 }
 
+.join__image {
+  position: relative;
+  justify-self: center;
+  overflow: hidden;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
