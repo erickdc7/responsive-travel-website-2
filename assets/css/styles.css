@@ -511,6 +511,11 @@ img {
   overflow: hidden;
 }
 
+.join__img {
+  width: 300px;
+  transition: transform 0.4s;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
