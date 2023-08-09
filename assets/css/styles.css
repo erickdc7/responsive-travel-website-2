@@ -528,6 +528,11 @@ img {
     hsl(0, 0%, 0%) 125%
   );
 }
+
+.join__image:hover .join__img {
+  transform: scale(1.2);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
