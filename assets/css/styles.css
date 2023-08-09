@@ -501,6 +501,10 @@ img {
   background-color: var(--container-color);
 }
 
+.join__button {
+  cursor: pointer;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
