@@ -572,6 +572,10 @@ img {
   transition: color 0.4s;
 }
 
+.footer__link:hover {
+  color: var(--title-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
