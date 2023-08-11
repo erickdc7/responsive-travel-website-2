@@ -557,6 +557,11 @@ img {
   gap: 2.5rem 3.5rem;
 }
 
+.footer__title {
+  font-size: var(--h3-font-size);
+  margin-bottom: 1rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
