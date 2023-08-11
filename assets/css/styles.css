@@ -588,6 +588,10 @@ img {
   row-gap: 2rem;
 }
 
+.footer__social {
+  column-gap: 1.5rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
