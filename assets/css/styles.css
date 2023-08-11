@@ -629,7 +629,7 @@ img {
 .scrollup {
   position: fixed;
   right: 1rem;
-  bottom: 3rem;
+  bottom: -50%;
   background-color: hsla(0, 0%, 100%, 0.1);
   padding: 6px;
   display: inline-flex;
