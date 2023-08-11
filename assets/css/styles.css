@@ -603,6 +603,12 @@ img {
   transform: translateY(-0.25rem);
 }
 
+.footer__copy {
+  font-size: var(--smaller-font-size);
+  color: var(--text-color-light);
+  text-align: center;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
