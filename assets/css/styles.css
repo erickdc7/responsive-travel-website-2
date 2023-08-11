@@ -626,6 +626,20 @@ img {
 }
 
 /*=============== SCROLL UP ===============*/
+.scrollup {
+  position: fixed;
+  right: 1rem;
+  bottom: 3rem;
+  background-color: hsla(0, 0%, 100%, 0.1);
+  padding: 6px;
+  display: inline-flex;
+  color: var(--title-color);
+  font-size: 1.25rem;
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px); /* For safari */
+  z-index: var(--z-tooltip);
+  transition: bottom 0.4s, transform 0.4s;
+}
 
 /* Show Scroll Up */
 
