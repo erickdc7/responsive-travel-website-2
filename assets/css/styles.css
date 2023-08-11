@@ -598,6 +598,11 @@ img {
   transition: color 0.4s, transform 0.4s;
 }
 
+.footer__social-link:hover {
+  color: var(--title-color);
+  transform: translateY(-0.25rem);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
