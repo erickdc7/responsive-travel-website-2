@@ -708,7 +708,9 @@ img {
   }
 
   .about__data,
-  .about__data .section__title {
+  .about__data .section__title,
+  .join__data,
+  .join__data .section__title {
     text-align: initial;
   }
 
