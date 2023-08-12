@@ -697,6 +697,9 @@ img {
 }
 
 @media screen and (min-width: 768px) {
+  .home__cards {
+    grid-template-columns: repeat(2, 240px);
+  }
 }
 
 /* For large devices */
