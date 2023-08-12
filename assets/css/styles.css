@@ -682,5 +682,7 @@ img {
 }
 
 /* For medium devices */
+@media screen and (min-width: 576px) {
+}
 
 /* For large devices */
