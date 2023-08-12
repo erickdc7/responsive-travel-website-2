@@ -701,7 +701,8 @@ img {
     grid-template-columns: repeat(2, 240px);
   }
 
-  .about__container {
+  .about__container,
+  .join__container {
     grid-template-columns: repeat(2, 350px);
     align-items: center;
   }
