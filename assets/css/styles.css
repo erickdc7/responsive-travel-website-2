@@ -179,6 +179,7 @@ img {
 }
 
 .nav__link {
+  position: relative;
   color: var(--title-color);
   font-family: var(--second-font);
   font-weight: var(--font-medium);
