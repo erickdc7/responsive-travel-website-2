@@ -683,6 +683,10 @@ img {
 
 /* For medium devices */
 @media screen and (min-width: 576px) {
+  .home__container {
+    grid-template-columns: 380px;
+    justify-content: center;
+  }
 }
 
 /* For large devices */
