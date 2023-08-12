@@ -714,6 +714,10 @@ img {
   .popular__container {
     grid-template-columns: repeat(2, 240px);
   }
+
+  .explore__img {
+    width: 100vw;
+  }
 }
 
 /* For large devices */
