@@ -684,7 +684,8 @@ img {
 /* For medium devices */
 @media screen and (min-width: 576px) {
   .home__container,
-  .about__container {
+  .about__container,
+  .explore__content {
     grid-template-columns: 380px;
     justify-content: center;
   }
