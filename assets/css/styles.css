@@ -721,6 +721,10 @@ img {
   .explore__img {
     width: 100vw;
   }
+
+  .join__image {
+    order: -1;
+  }
 }
 
 /* For large devices */
