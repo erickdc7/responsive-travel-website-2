@@ -690,6 +690,10 @@ img {
     grid-template-columns: 380px;
     justify-content: center;
   }
+
+  .footer__data {
+    grid-template-columns: repeat(3, max-content);
+  }
 }
 
 /* For large devices */
