@@ -710,6 +710,10 @@ img {
   .about__data .section__title {
     text-align: initial;
   }
+
+  .popular__container {
+    grid-template-columns: repeat(2, 240px);
+  }
 }
 
 /* For large devices */
