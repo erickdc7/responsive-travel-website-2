@@ -685,7 +685,8 @@ img {
 @media screen and (min-width: 576px) {
   .home__container,
   .about__container,
-  .explore__content {
+  .explore__content,
+  .join__container {
     grid-template-columns: 380px;
     justify-content: center;
   }
