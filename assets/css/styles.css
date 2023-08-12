@@ -700,6 +700,11 @@ img {
   .home__cards {
     grid-template-columns: repeat(2, 240px);
   }
+
+  .about__container {
+    grid-template-columns: repeat(2, 350px);
+    align-items: center;
+  }
 }
 
 /* For large devices */
