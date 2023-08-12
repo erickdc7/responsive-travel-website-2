@@ -675,6 +675,10 @@ img {
   .container {
     margin-inline: 1rem;
   }
+
+  .footer__data {
+    grid-template-columns: max-content;
+  }
 }
 
 /* For medium devices */
