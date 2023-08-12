@@ -730,6 +730,11 @@ img {
     grid-template-columns: repeat(2, max-content);
     justify-content: space-between;
   }
+
+  .footer__group {
+    flex-direction: row;
+    justify-content: space-between;
+  }
 }
 
 /* For large devices */
