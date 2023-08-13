@@ -823,4 +823,8 @@ img {
     column-gap: 8.5rem;
     padding-block: 1rem;
   }
+
+  .about__description {
+    margin-bottom: 3rem;
+  }
 }
