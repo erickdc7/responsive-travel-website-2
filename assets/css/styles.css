@@ -780,4 +780,11 @@ img {
     backdrop-filter: blur(25px);
     -webkit-backdrop-filter: blur(25px); /* For safari */
   }
+
+  .home__container {
+    grid-template-columns: initial;
+    justify-content: initial;
+    row-gap: 4rem;
+    padding-top: 6.5rem;
+  }
 }
