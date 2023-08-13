@@ -800,4 +800,8 @@ img {
   .home__subtitle {
     font-size: var(--h2-font-size);
   }
+
+  .home__description {
+    margin-bottom: 2.5rem;
+  }
 }
