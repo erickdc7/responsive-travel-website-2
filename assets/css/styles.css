@@ -762,3 +762,6 @@ img {
     column-gap: 4.5rem;
   }
 }
+
+@media screen and (min-width: 1152px) {
+}
