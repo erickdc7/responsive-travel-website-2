@@ -817,4 +817,10 @@ img {
   .button {
     column-gap: 1.5rem;
   }
+
+  .about__container {
+    grid-template-columns: 400px 460px;
+    column-gap: 8.5rem;
+    padding-block: 1rem;
+  }
 }
