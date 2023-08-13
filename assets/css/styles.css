@@ -756,4 +756,9 @@ img {
   .popular__container {
     grid-template-columns: repeat(3, 240px);
   }
+
+  .footer__data {
+    grid-template-columns: repeat(4, max-content);
+    column-gap: 4.5rem;
+  }
 }
