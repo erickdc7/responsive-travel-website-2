@@ -831,4 +831,10 @@ img {
   .about__img {
     width: 460px;
   }
+
+  .popular__container {
+    grid-template-columns: repeat(3, 300px);
+    column-gap: 3rem;
+    padding-top: 4rem;
+  }
 }
