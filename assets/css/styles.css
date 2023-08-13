@@ -804,4 +804,8 @@ img {
   .home__description {
     margin-bottom: 2.5rem;
   }
+
+  .home__cards {
+    grid-template-columns: repeat(4, 260px);
+  }
 }
