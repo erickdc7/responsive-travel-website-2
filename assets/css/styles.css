@@ -837,4 +837,8 @@ img {
     column-gap: 3rem;
     padding-top: 4rem;
   }
+
+  .popular__title {
+    font-size: var(--h2-font-size);
+  }
 }
