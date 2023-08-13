@@ -827,4 +827,8 @@ img {
   .about__description {
     margin-bottom: 3rem;
   }
+
+  .about__img {
+    width: 460px;
+  }
 }
