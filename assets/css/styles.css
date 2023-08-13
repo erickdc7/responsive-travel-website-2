@@ -787,4 +787,8 @@ img {
     row-gap: 4rem;
     padding-top: 6.5rem;
   }
+
+  .home__shadow {
+    height: 980px;
+  }
 }
