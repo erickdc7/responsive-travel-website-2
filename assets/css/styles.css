@@ -775,4 +775,9 @@ img {
   .nav {
     height: calc(var(--header-height) + 1.5rem);
   }
+
+  .blur-header::after {
+    backdrop-filter: blur(25px);
+    -webkit-backdrop-filter: blur(25px); /* For safari */
+  }
 }
