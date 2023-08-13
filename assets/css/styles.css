@@ -808,4 +808,9 @@ img {
   .home__cards {
     grid-template-columns: repeat(4, 260px);
   }
+
+  .home__card-title {
+    left: 1.5rem;
+    bottom: 1.5rem;
+  }
 }
