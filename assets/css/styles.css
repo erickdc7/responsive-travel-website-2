@@ -791,4 +791,9 @@ img {
   .home__shadow {
     height: 980px;
   }
+
+  .home__data {
+    text-align: initial;
+    width: 480px;
+  }
 }
