@@ -875,4 +875,8 @@ img {
   .join__img {
     width: 460px;
   }
+
+  .join__description {
+    margin-bottom: 3rem;
+  }
 }
