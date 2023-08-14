@@ -887,4 +887,8 @@ img {
   .footer__title {
     margin-bottom: 1.5rem;
   }
+
+  .footer__group {
+    margin-top: 7rem;
+  }
 }
