@@ -854,4 +854,9 @@ img {
     padding-top: 28rem;
     grid-template-columns: 670px 1fr;
   }
+
+  .explore__data,
+  .explore__data .section__title {
+    text-align: initial;
+  }
 }
