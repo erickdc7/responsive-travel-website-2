@@ -871,4 +871,8 @@ img {
     column-gap: 8.5rem;
     padding-block: 1rem 5rem;
   }
+
+  .join__img {
+    width: 460px;
+  }
 }
