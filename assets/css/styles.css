@@ -891,4 +891,8 @@ img {
   .footer__group {
     margin-top: 7rem;
   }
+
+  .footer__social {
+    column-gap: 2rem;
+  }
 }
