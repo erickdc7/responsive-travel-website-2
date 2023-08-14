@@ -80,3 +80,4 @@ const sr = ScrollReveal({
 })
 
 sr.reveal(`.home__data`)
+sr.reveal(`.home__card`, { delay: 600, distance: '100px', interval: 100 })
