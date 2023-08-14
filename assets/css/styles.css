@@ -865,4 +865,10 @@ img {
     align-self: flex-end;
     margin-bottom: 1.25rem;
   }
+
+  .join__container {
+    grid-template-columns: 460px 340px;
+    column-gap: 8.5rem;
+    padding-block: 1rem 5rem;
+  }
 }
