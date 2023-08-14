@@ -879,4 +879,8 @@ img {
   .join__description {
     margin-bottom: 3rem;
   }
+
+  .footer {
+    padding-block: 5rem 3rem;
+  }
 }
